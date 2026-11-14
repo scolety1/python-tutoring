@@ -1,0 +1,30 @@
+1,Black-billed Magpie,Pica hudsonia,Corvidae,38.58%
+2,American Robin,Turdus migratorius,Turdidae,38.55%
+3,Black-capped Chickadee,Poecile atricapillus,Paridae,33.52%
+4,Northern Flicker,Colaptes auratus,Picidae,31.78%
+5,Mallard,Anas platyrhynchos,Anatidae,29.67%
+6,Canada Goose,Branta canadensis,Anatidae,28.04%
+7,Common Raven,Corvus corax,Corvidae,27.11%
+8,European Starling,Sturnus vulgaris,Sturnidae,26.10%
+9,Red-winged Blackbird,Agelaius phoeniceus,Icteridae,24.25%
+10,House Finch,Haemorhous mexicanus,Fringillidae,21.93%
+11,House Sparrow,Passer domesticus,Passeridae,19.94%
+12,Red-tailed Hawk,Buteo jamaicensis,Accipitridae,18.33%
+13,Eurasian Collared-Dove,Streptopelia decaocto,Columbidae,17.74%
+14,Red-breasted Nuthatch,Sitta canadensis,Sittidae,17.29%
+15,Dark-eyed Junco,Junco hyemalis,Passerellidae,16.95%
+16,Song Sparrow,Melospiza melodia,Passerellidae,16.72%
+17,American Crow,Corvus brachyrhynchos,Corvidae,16.13%
+18,Western Meadowlark,Sturnella neglecta,Icteridae,15.04%
+19,Pine Siskin,Spinus pinus,Fringillidae,14.69%
+20,Mourning Dove,Zenaida macroura,Columbidae,14.61%
+21,Tree Swallow,Tachycineta bicolor,Hirundinidae,14.43%
+22,Mountain Chickadee,Poecile gambeli,Paridae,13.80%
+23,Bald Eagle,Haliaeetus leucocephalus,Accipitridae,13.39%
+24,Killdeer,Charadrius vociferus,Charadriidae,13.28%
+25,American Goldfinch,Spinus tristis,Fringillidae,12.85%
+26,Rock Pigeon,Columba livia,Columbidae,12.69%
+27,Yellow Warbler,Setophaga petechia,Parulidae,12.69%
+28,Yellow-rumped Warbler,Setophaga coronata,Parulidae,12.44%
+29,Downy Woodpecker,Dryobates pubescens,Picidae,12.33%
+30,Cedar Waxwing,Bombycilla cedrorum,Bombycillidae,10.97%
